@@ -3,8 +3,9 @@
 ---
 
 ### Обо мне:
+Я разработчик. Прошел обучение по JavaScript программированию. Есть опыт в разработке веб-приложений и веб-сайтов. Однако, моя страсть - создание игр. В настоящее время я изучаю C# и успешно применяю его для создания игр на платформе Unity. Буду рад делиться своими проектами и готов работать в команде для создания уникальных и незабываемых игровых проектов!
 
-📫:[![Telegram Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Roman_zu)
+📫 Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Roman_zu)
 
 Проекты:
 <br><a href="https://yandex.ru/games/app/238803">Tanks Survivals</a>
@@ -33,7 +34,7 @@
 ---
 
 ### ⚙️GitHub статистика: 
-  <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrWhi1te&layout=compact&theme=vision-friendly-dark" />
+  <img height="155px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrWhi1te&layout=compact&theme=vision-friendly-dark" />
 <!--
 **MrWhi1te/MrWhi1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
