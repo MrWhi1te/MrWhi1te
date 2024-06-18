@@ -8,8 +8,10 @@
 📫 Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Roman_zu)
 
 Проекты:
-<br><a href="https://yandex.ru/games/app/238803">Tanks Survivals</a>
 <br><a href="https://yandex.ru/games/app/210436">FrostTrain</a>
+<br><a href="https://yandex.ru/games/app/192576">Быки и коровы</a>
+<br><a href="https://yandex.ru/games/app/238803">Tanks Survivals</a>
+
 
 ### 💻:Технологии  
 <div align="left">  
